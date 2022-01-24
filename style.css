@@ -1,0 +1,114 @@
+
+   .card-body-3:hover {
+        background: #9f8ce4;
+        border: 1px solid #9f9add;
+    }
+
+    .card-body-3:hover .list-group-item {
+        background: #7d6dc5 !important
+    }
+
+
+    .card-body-3:hover .btn-outline-dark {
+        color: white;
+        background: #212529;
+    } 
+    
+    /*----------- package -----------------*/
+  .package{
+      padding: 100px 30px;
+  }
+  .toast-container{
+    
+      position: absolute;
+      padding: 0;
+  }
+
+
+
+
+
+
+
+    /* --------------faq section -----------------*/
+    .text-secondary {
+  color: #3d5d6f;
+}
+
+.h4,
+h4 {
+  font-size: 1.2rem;
+}
+
+h2 {
+  color: #333;
+}
+
+.fa,
+.fas {
+  font-family: 'FontAwesome';
+  font-weight: 400;
+  font-size: 1.2rem;
+  font-style: normal;
+}
+
+.right-0 {
+  right: 0;
+}
+
+.top-0 {
+  top: 0;
+}
+
+.h-100 {
+  height: 100%;
+}
+
+a.text-secondary:focus,
+a.text-secondary:hover {
+  text-decoration: none;
+  color: #22343e;
+}
+
+#accordion .fa-plus {
+  transition: -webkit-transform 0.25s ease-in-out;
+  transition: transform 0.25s ease-in-out;
+  transition: transform 0.25s ease-in-out, -webkit-transform 0.25s ease-in-out;
+}
+
+#accordion a[aria-expanded=true] .fa-plus {
+  -webkit-transform: rotate(45deg);
+  transform: rotate(45deg);
+}
+
+    
+/**************** Footer Area ****************/
+.footer-area {
+  background-color: #0a0826;
+  text-align: center;
+  height: 239px;
+  position: absolute;
+  width: 100%;
+  left: 0;
+  right: 0;
+}
+
+.footer-area p {
+  font-size: 12px;
+  font-weight: 400;
+  color: rgb(211, 211, 211);
+  padding-bottom: 8px;
+}
+
+.fab {
+  color: #fff;
+  background-color: #ffffff4b;
+  padding: 10px;
+  border-radius: 17px;
+  margin-left: 8px;
+  font-size: 14px;
+}
+
+
+
+ 
